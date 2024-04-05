@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-05T17:23:37.507Z</updated>
+  <updated>2024-04-05T17:35:35.696Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>b站up主推荐</title>
+    <link href="http://example.com/f4e31a08.html"/>
+    <id>http://example.com/f4e31a08.html</id>
+    <published>2024-04-05T17:33:10.000Z</published>
+    <updated>2024-04-05T17:35:35.696Z</updated>
+    
+    <content type="html"><![CDATA[<p>b站看了几年，今天整理一下，来推荐一些近期带来新知识的up主</p><h2 id="一般类"><a href="#一般类" class="headerlink" title="一般类"></a>一般类</h2><ol><li>俞磊的<a href="http://www.bilibili.com/video/BV1F7411G7pn">世界古代史</a>，不错的介绍世界历史的通识讲座，比教科书高一些</li><li>金秘笛，介绍了一些古典中国的一些文化常识</li><li>有点意思研究所，介绍了一些元代的历史</li><li>乡土小魏，口述历史，可以更好了解一些农村当年的情况</li><li>万物丶归藏，介绍了一下奥斯曼帝国</li><li>老王特爱聊，有些我不赞同，但提供了一些二战德日方面的视角，不知道有没有什么特别的用意</li><li>马林思维，语言有煽动力，同时确实有一些心理学方面的收获，习惯比较重要，人的认知无法直接操控情绪，书面知识无法直接转变为个体的默会知识</li><li>愤怒保罗，足球up主，创造性发明了流派学</li><li>_风过大泽的<a href="http://www.bilibili.com/video/BV1QH4y1f7Sv">电影色戒解读</a>，不错的电影</li></ol><h2 id="童年缅怀"><a href="#童年缅怀" class="headerlink" title="童年缅怀"></a>童年缅怀</h2><p>b站上有一些回顾80，90年代的电视剧之类的剪辑，可以缅怀一下童年</p><ol><li>应天风秋八月的<a href="http://www.bilibili.com/video/BV1HN4y1p7m9">霹雳狂刀普通话片头</a>，以前看的一部动画</li><li>PC66336钟立文的<a href="http://www.bilibili.com/video/BV1A4411R7w8">TVB收视排行（1992-2000)</a>，对tvb以前旋律的整理</li></ol><h2 id="美食类"><a href="#美食类" class="headerlink" title="美食类"></a>美食类</h2><p>之前有段时间关注了一下食物相关，分享一下相关up主</p><ol><li>段小段美食教程，搭配科学原理一起讲，通俗易懂</li><li>隋卞做</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;b站看了几年，今天整理一下，来推荐一些近期带来新知识的up主&lt;/p&gt;
+&lt;h2 id=&quot;一般类&quot;&gt;&lt;a href=&quot;#一般类&quot; class=&quot;headerlink&quot; title=&quot;一般类&quot;&gt;&lt;/a&gt;一般类&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;俞磊的&lt;a href=&quot;http://www</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>使用hexo+github pages+个人域名搭建个人博客</title>
@@ -30,28 +52,6 @@
       
     <summary type="html">&lt;p&gt;最近重新搭建了一下个人博客，写一篇博客把过程记录一下。&lt;/p&gt;
 &lt;h2 id=&quot;备案问题&quot;&gt;&lt;a href=&quot;#备案问题&quot; class=&quot;headerlink&quot; title=&quot;备案问题&quot;&gt;&lt;/a&gt;备案问题&lt;/h2&gt;&lt;p&gt;目前要使用阿里云国内主机与个人域名搭建博客需要进行备案</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>b站up主推荐</title>
-    <link href="http://example.com/f4e31a08.html"/>
-    <id>http://example.com/f4e31a08.html</id>
-    <published>2024-04-04T02:39:35.413Z</published>
-    <updated>2024-04-05T17:29:44.601Z</updated>
-    
-    <content type="html"><![CDATA[<p>b站看了几年，今天整理一下，来推荐一些近期带来新知识的up主</p><h2 id="一般类"><a href="#一般类" class="headerlink" title="一般类"></a>一般类</h2><ol><li>俞磊的<a href="http://www.bilibili.com/video/BV1F7411G7pn">世界古代史</a>，不错的介绍世界历史的通识讲座，比教科书高一些</li><li>金秘笛，介绍了一些古典中国的一些文化常识</li><li>有点意思研究所，介绍了一些元代的历史</li><li>乡土小魏，口述历史，可以更好了解一些农村当年的情况</li><li>万物丶归藏，介绍了一下奥斯曼帝国</li><li>老王特爱聊，有些我不赞同，但提供了一些二战德日方面的视角，不知道有没有什么特别的用意</li><li>马林思维，语言有煽动力，同时确实有一些心理学方面的收获，习惯比较重要，人的认知无法直接操控情绪，书面知识无法直接转变为个体的默会知识</li><li>愤怒保罗，足球up主，创造性发明了流派学</li><li>_风过大泽的<a href="http://www.bilibili.com/video/BV1QH4y1f7Sv">电影色戒解读</a>，不错的电影</li></ol><h2 id="童年缅怀"><a href="#童年缅怀" class="headerlink" title="童年缅怀"></a>童年缅怀</h2><p>b站上有一些回顾80，90年代的电视剧之类的剪辑，可以缅怀一下童年</p><ol><li>应天风秋八月的<a href="http://www.bilibili.com/video/BV1HN4y1p7m9">霹雳狂刀普通话片头</a>，以前看的一部动画</li><li>PC66336钟立文的<a href="http://www.bilibili.com/video/BV1A4411R7w8">TVB收视排行（1992-2000)</a>，对tvb以前旋律的整理</li></ol><h2 id="美食类"><a href="#美食类" class="headerlink" title="美食类"></a>美食类</h2><p>之前有段时间关注了一下食物相关，分享一下相关up主</p><ol><li>段小段美食教程，搭配科学原理一起讲，通俗易懂</li><li>隋卞做</li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;b站看了几年，今天整理一下，来推荐一些近期带来新知识的up主&lt;/p&gt;
-&lt;h2 id=&quot;一般类&quot;&gt;&lt;a href=&quot;#一般类&quot; class=&quot;headerlink&quot; title=&quot;一般类&quot;&gt;&lt;/a&gt;一般类&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;俞磊的&lt;a href=&quot;http://www</summary>
       
     
     
