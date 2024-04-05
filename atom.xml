@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>刘神捕的博客</title>
+  
+  <subtitle>历史爱好者，全栈程序员</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-04-04T11:54:43.229Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>刘神捕</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>感想</title>
+    <link href="http://example.com/3f333b30.html"/>
+    <id>http://example.com/3f333b30.html</id>
+    <published>2024-04-04T02:39:35.413Z</published>
+    <updated>2024-04-04T11:54:43.229Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天开始使用一下博客</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>分享一下平时的感想</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天开始使用一下博客&lt;/p&gt;
+&lt;h2 id=&quot;总结&quot;&gt;&lt;a href=&quot;#总结&quot; class=&quot;headerlink&quot; title=&quot;总结&quot;&gt;&lt;/a&gt;总结&lt;/h2&gt;&lt;p&gt;分享一下平时的感想&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
